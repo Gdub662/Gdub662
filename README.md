@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Gdub662/Gdub662 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gdub662/Gdub662 is a ✨ special ✨ repository because its `README.md` (persohome) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
